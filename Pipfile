@@ -8,8 +8,10 @@ pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
-ydata-profiling = "*"
 xgboost = "*"
+ydata-profiling = "*"
+setuptools = "*"
+pyqt6 = "*"
 
 [dev-packages]
 ipykernel = "*"
